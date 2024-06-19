@@ -9,10 +9,6 @@ const links = [
         label: "HOME",
     },
     {
-        to: "/login",
-        label: "LOGIN",
-    },
-    {
         to: "/about",
         label: "ABOUT",
     },
@@ -21,9 +17,13 @@ const links = [
         label: "CONTACT",
     },
     {
-      to: "/tasks",
-      label: "TASKS",
+      to: "/tickets",
+      label: "TICKETS",
     },
+    {
+        to: "/login",
+        label: "LOGIN",
+    }
 ]
 
 
